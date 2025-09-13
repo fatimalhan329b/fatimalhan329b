@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Fatima 👋
 
-<!--
-**fatimalhan329b/fatimalhan329b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning **Offensive Security** & building hands-on labs from **TryHackMe**.  
+I use Kali Linux and practice CTFs. I'm looking for **junior pentester / bug bounty** roles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current focus
+- Completing TryHackMe paths: *Offensive Pentesting* • *Blue Team*
+- Practicing on vulnerable VMs and writing clear step-by-step writeups
+
+---
+
+## ⭐ Featured TryHackMe projects
+- **THM: Blue Town (walkthrough)** — [View Repo](https://github.com/fatimalhan329b/thm-blue-town)  
+- **THM: Web-exploits collection** — [View Repo](https://github.com/fatimalhan329b/thm-web)
+
+---
+
+## 🧾 What each repo contains
+- Clear, step-by-step **walkthrough** in Markdown  
+- `screenshots/` showing key steps  
+- `notes.md` with commands used  
+- `certificate.png` (if earned)
+
+---
+
+## 🛠 Skills
+- **Tools:** nmap, nikto, gobuster, burpsuite, hydra, metasploit  
+- **OS:** Kali Linux, Ubuntu  
+- **Languages:** Bash, Python (for small tooling)
+
+---
+
+## 📫 Contact
+- Email: fatima.jobs@example.com  <!-- replace with your real or job-hunting email -->
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile) <!-- replace with your LinkedIn -->
+
